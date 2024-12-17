@@ -1,2 +1,2 @@
-# Pythello
-Othello in Pygame
+# Pysorry
+Sorry remake in Pygame
