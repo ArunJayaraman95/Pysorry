@@ -1,0 +1,2 @@
+# Pythello
+Othello in Pygame
